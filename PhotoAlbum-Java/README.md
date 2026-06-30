@@ -31,5 +31,4 @@ Empieza realizando el escaneo inicial y listando las dependencias que requieren 
 ## 📋 Plan de Migración
 Puedes consultar nuestra hoja de ruta detallada en el archivo [MIGRATION_PLAN.md](./MIGRATION_PLAN.md). Este archivo contiene las fases, riesgos identificados y las tareas pendientes para completar la actualización a Java 25.
 
----
-*Este proyecto utiliza IA asistida. Por favor, revisa siempre los cambios propuestos (Pull Requests) antes de fusionarlos.*
+
